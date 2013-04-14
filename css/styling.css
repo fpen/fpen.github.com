@@ -1,0 +1,96 @@
+html {
+  background: #efefef;
+       color: #000000;
+ font-family: Helvetica, Arial, Sans-serif;
+   font-size: 12pt;
+      margin: 0;
+     padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+a:link {
+       color: #003399;
+text-decoration: none;
+}
+
+a:visited {
+       color: #003399;
+}
+
+a.top-menu-item:link {
+       color: #ffffff;
+}
+
+a.top-menu-item:visited {
+       color: #ffffff;
+}
+
+#page-wrapper {
+  background: #ffffff;
+       width: 768px;
+  text-align: left;
+     padding: 15px;
+      border: 1px solid #909090;
+ margin-left: auto; 
+margin-right: auto; 
+}
+
+#header {
+       width: 768px;
+      height: 50px;
+      margin: auto;
+    position: relative;
+}
+
+#logo {
+       float: left;
+   max-width: 350px;
+      border: none;
+    position: absolute;
+      bottom: 0;
+        left: 0;
+}
+
+#tagline {
+       float: right;
+      border: none;
+       width: 418px;
+  text-align: right;
+    position: absolute;
+      bottom: 4px;
+       right: 0;
+}
+
+#top-menu {
+  background: #003399;
+       width: 768px;
+      margin: 17px 17px 0 0;
+}
+
+.top-menu-item {
+       color: #efefef;
+     padding: 8px 12px;
+}
+
+#content {
+  font-size: 11pt;
+      color: #000000;
+}
+
+.section-header {
+      color: #003399;
+  font-size: 16pt;
+}
+
+.section-text {
+
+}
+
+.pic-right {
+      float: right;
+ box-shadow: 2px 2px 5px #aaaaaa;
+}
+
